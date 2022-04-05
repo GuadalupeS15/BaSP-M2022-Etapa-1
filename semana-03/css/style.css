@@ -1,0 +1,20 @@
+.left {
+    float: left;
+    width: 15%;
+    background-color: rgba(0,0,0,0.2);
+    padding-bottom: 2855px;
+}
+.right {
+    float: right;
+    width: 80%;
+}
+.bottom {
+    float: right;
+    width: 80%;
+    background-color: aquamarine;
+}
+.navbar {
+    float: right;
+    width: 80%;
+    background-color: aquamarine;
+}
