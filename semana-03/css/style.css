@@ -127,3 +127,88 @@ aside div p {
     background-color: #fff;
     cursor: pointer;
 }
+h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 74px;
+    padding-left: 20px;
+}
+main section .function img {
+    float: left;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+main section .function {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+}
+main section .function div {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+}
+main section .function h3 {
+    font-weight: 500;
+    font-size: 28px;
+}
+.assets img {
+    width: 440px;
+}
+.assets div {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 74px;
+}
+.assets div h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 74px;
+}  
+.assets div p {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 24px;
+} 
+.assets button {
+    border: none;
+    padding: 6px 16px;
+    border-radius: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-transform: uppercase;
+    background-color: #AACE9B;
+    color: #000;
+    cursor: pointer;
+} 
+.form input {
+    display: inline-block;
+    width: 45%;
+    margin: 15px;
+    padding: 3px;
+} 
+.form textarea, .form select{
+    width: 90%;
+    padding:3px;
+    margin: 15px;
+} 
+
+
+
+
