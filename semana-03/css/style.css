@@ -279,10 +279,12 @@ main section .function h3 {
     width: 55%;
     border-radius: 10px;
 }
+
 .info {
     width: 95%;
     margin: auto;
 }
+
 .info div {
     width: 30%;
     display: inline-block;
@@ -305,11 +307,34 @@ main section .function h3 {
     font-size: 33px;
     line-height: 55px;
 }
+
 footer {
     position: relative;
-    background-image: url(/semana-03/image/footer.png);
-    height: 480px;
+    height: 440px;
+    background-image: url(../image/footer.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+footer p {
+    margin: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 17px;
+}
+footer p:first-child {
+    margin-top: 80px;
+}
+footer ul {
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 25%;
+}
+footer ul a {
+    padding: 50px;
 }
